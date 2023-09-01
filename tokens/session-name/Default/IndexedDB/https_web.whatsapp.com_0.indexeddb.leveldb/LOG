@@ -1,0 +1,17 @@
+2023/08/31-17:38:37.458 a94c Creating DB C:\Users\dougl\Desktop\PROSMART\SOFTWARES\tes6\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/31-17:38:37.461 a94c Reusing MANIFEST C:\Users\dougl\Desktop\PROSMART\SOFTWARES\tes6\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/31-17:38:37.475 85b0 Level-0 table #5: started
+2023/08/31-17:38:37.476 85b0 Level-0 table #5: 7441 bytes OK
+2023/08/31-17:38:37.477 85b0 Delete type=0 #3
+2023/08/31-17:38:37.477 85b0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/31-17:38:37.961 a94c Level-0 table #7: started
+2023/08/31-17:38:37.963 a94c Level-0 table #7: 14519 bytes OK
+2023/08/31-17:38:37.963 a94c Delete type=0 #4
+2023/08/31-17:38:37.964 a94c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/31-17:39:52.996 3cb4 Level-0 table #9: started
+2023/08/31-17:39:53.011 3cb4 Level-0 table #9: 997988 bytes OK
+2023/08/31-17:39:53.012 3cb4 Delete type=0 #6
+2023/08/31-17:39:53.375 3cb4 Compacting 1@0 + 1@1 files
+2023/08/31-17:39:53.394 3cb4 Generated table #10@0: 28415 keys, 667999 bytes
+2023/08/31-17:39:53.394 3cb4 Compacted 1@0 + 1@1 files => 667999 bytes
+2023/08/31-17:39:53.395 3cb4 compacted to: files[ 0 1 1 0 0 0 0 ]
